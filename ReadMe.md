@@ -107,8 +107,8 @@ id: Bangladesh
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Bangladesh/
-markerFolder: ./Bangladesh/
+geojsonFolder: ./
+markerFolder: ./
 ```
 
 [name-en::Bangladesh] 
