@@ -1,24 +1,24 @@
----
+﻿---
 location:
-  - 24.1
-  - 90.4
+- 24.1
+- 90.4
 type: geo-Region
 title: Dhaka
-license: CC BY-SA 4.0
-source: https://datahub.io/core/country-codes
+license: "CC BY-SA 4.0"
+source: "https://datahub.io/core/country-codes"
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
 tags:
-  - geo/Country/Region
+- geo/Country/Region
 aliases:
-  - Dhaka
-  - Dacca
+- Dhaka
+- Dacca
 Languages:
-  - de
+- de
 cssclasses:
-  - geo-Region
+- geo-Region
 publish: true
 linkTitle: 
 keywords: 
@@ -27,80 +27,80 @@ publishDate:
 expiryDate: 
 has_id_wikidata: Q1354
 HASC: BD.DA
-UN/LOCODE: BDDAC
-GitHub topic: dhaka
-Commons category: Dhaka
+UN_LOCODE: BDDAC
+GitHub_topic: dhaka
+Commons_category: Dhaka
 subreddit: Dhaka
 hashtag:
-  - Dhaka
-  - ঢাকা
-Commons gallery: ঢাকা
+- Dhaka
+- ঢাকা
+Commons_gallery: ঢাকা
 demonym:
-  - Dhakaiya
-  - Dakano
-  - Daccanais
-  - Daccanaise
-instance of:
-  - "[[/_Standards/WikiData/WD~megacity,174844]]"
-  - "[[/_Standards/WikiData/WD~metropolis,200250]]"
-  - "[[/_Standards/WikiData/WD~financial center,1066984]]"
-  - "[[/_Standards/WikiData/WD~largest city,51929311]]"
-  - "[[/_Standards/WikiData/WD~city,515]]"
-different from:
-  - "[[/_Standards/WikiData/WD~Dakka,237060]]"
-  - "[[/_Standards/WikiData/WD~Dakar,3718]]"
-located in the administrative territorial entity:
-  - "[[/_Standards/WikiData/WD~Dhaka Division,330158]]"
-capital of:
-  - "[[/_Standards/WikiData/WD~Dhaka Division,330158]]"
-  - "[[/_Standards/WikiData/WD~East Pakistan,842931]]"
-  - "[[/_Standards/WikiData/WD~Dhaka District,1850485]]"
-  - "[[/_Standards/WikiData/WD~East Bengal,2347909]]"
-  - "[[/_Standards/WikiData/WD~Bangladesh,902]]"
-described by source:
-  - "[[/_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[/_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[/_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-topic's main Wikimedia portal: "[[/_Standards/WikiData/WD~Portal_Dhaka,14601004]]"
-economy of topic: "[[/_Standards/WikiData/WD~economy of Dhaka,18391889]]"
-head of government: "[[/_Standards/WikiData/WD~Atiqul Islam,61917170]]"
-coordinate location: Point(90.394444444 23.728888888)
-official website:
-  - https://dncc.gov.bd/
-  - https://dscc.gov.bd/
-country: "[[/_Standards/WikiData/WD~Bangladesh,902]]"
-twinned administrative body:
-  - "[[/_Standards/WikiData/WD~Kolkata,1348]]"
-  - "[[/_Standards/WikiData/WD~Guangzhou,16572]]"
-located in time zone:
-  - "[[/_Standards/WikiData/WD~UTC+06_00,6906]]"
-official language: "[[/_Standards/WikiData/WD~Bangla,9610]]"
-office held by head of government: "[[/_Standards/WikiData/WD~mayor,30185]]"
-elevation above sea level: 4
+- Dhakaiya
+- Dakano
+- Daccanais
+- Daccanaise
+instance_of:
+- '[[/_Standards/WikiData/WD~megacity,174844]]'
+- '[[/_Standards/WikiData/WD~metropolis,200250]]'
+- "[[/_Standards/WikiData/WD~financial center,1066984]]"
+- "[[/_Standards/WikiData/WD~largest city,51929311]]"
+- '[[/_Standards/WikiData/WD~city,515]]'
+different_from:
+- '[[/_Standards/WikiData/WD~Dakka,237060]]'
+- '[[/_Standards/WikiData/WD~Dakar,3718]]'
+located_in_the_administrative_territorial_entity:
+- "[[/_Standards/WikiData/WD~Dhaka Division,330158]]"
+capital_of:
+- "[[/_Standards/WikiData/WD~Dhaka Division,330158]]"
+- "[[/_Standards/WikiData/WD~East Pakistan,842931]]"
+- "[[/_Standards/WikiData/WD~Dhaka District,1850485]]"
+- "[[/_Standards/WikiData/WD~East Bengal,2347909]]"
+- '[[/_Standards/WikiData/WD~Bangladesh,902]]'
+described_by_source:
+- "[[/_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[/_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[/_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Dhaka,14601004]]'
+economy_of_topic: "[[/_Standards/WikiData/WD~economy of Dhaka,18391889]]"
+head_of_government: "[[/_Standards/WikiData/WD~Atiqul Islam,61917170]]"
+coordinate_location: "Point(90.394444444 23.728888888)"
+official_website:
+- "https://dncc.gov.bd/"
+- "https://dscc.gov.bd/"
+country: '[[/_Standards/WikiData/WD~Bangladesh,902]]'
+twinned_administrative_body:
+- '[[/_Standards/WikiData/WD~Kolkata,1348]]'
+- '[[/_Standards/WikiData/WD~Guangzhou,16572]]'
+located_in_time_zone:
+- '[[/_Standards/WikiData/WD~UTC+06_00,6906]]'
+official_language: '[[/_Standards/WikiData/WD~Bangla,9610]]'
+office_held_by_head_of_government: '[[/_Standards/WikiData/WD~mayor,30185]]'
+elevation_above_sea_level: 4
 population: 16800000
 area: 368
-postal code:
-  - "1100"
-  - "1000"
-  - 1200–1299
-  - 1300–1399
-local dialing code: "02"
-native label:
-  - ঢাকা
-  - ڈھاکہ
-WOEID: "1915035"
-location map: http://commons.wikimedia.org/wiki/Special:FilePath/Dhaka-city1.svg
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Dhaka%20banner.jpg
-detail map:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Dhaka%20locator%20map.png
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Dhaka%20locator%20map.svg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Dhaka%20skyline1.jpg
-aerial view: http://commons.wikimedia.org/wiki/Special:FilePath/Dhaka%20skyline1.jpg
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Dacca.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE.wav
-U.S. National Archives Identifier: "10044346"
+postal_code:
+- 1100
+- 1000
+- 1200–1299
+- 1300–1399
+local_dialing_code: 02
+native_label:
+- ঢাকা
+- ڈھاکہ
+WOEID: 1915035
+location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Dhaka-city1.svg"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Dhaka%20banner.jpg"
+detail_map:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Dhaka%20locator%20map.png"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Dhaka%20locator%20map.svg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Dhaka%20skyline1.jpg"
+aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Dhaka%20skyline1.jpg"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Dacca.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE.wav"
+U_S_National_Archives_Identifier: 10044346
 ---
 
 # Dhaka
