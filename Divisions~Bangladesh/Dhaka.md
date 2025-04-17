@@ -43,28 +43,28 @@ demonym:
 instance_of:
 - '[[/_Standards/WikiData/WD~megacity,174844]]'
 - '[[/_Standards/WikiData/WD~metropolis,200250]]'
-- "[[/_Standards/WikiData/WD~financial center,1066984]]"
-- "[[/_Standards/WikiData/WD~largest city,51929311]]"
+- "[[/_Standards/WikiData/WD~financial_center,1066984]]"
+- "[[/_Standards/WikiData/WD~largest_city,51929311]]"
 - '[[/_Standards/WikiData/WD~city,515]]'
 different_from:
 - '[[/_Standards/WikiData/WD~Dakka,237060]]'
 - '[[/_Standards/WikiData/WD~Dakar,3718]]'
 located_in_the_administrative_territorial_entity:
-- "[[/_Standards/WikiData/WD~Dhaka Division,330158]]"
+- "[[/_Standards/WikiData/WD~Dhaka_Division,330158]]"
 capital_of:
-- "[[/_Standards/WikiData/WD~Dhaka Division,330158]]"
-- "[[/_Standards/WikiData/WD~East Pakistan,842931]]"
-- "[[/_Standards/WikiData/WD~Dhaka District,1850485]]"
-- "[[/_Standards/WikiData/WD~East Bengal,2347909]]"
+- "[[/_Standards/WikiData/WD~Dhaka_Division,330158]]"
+- "[[/_Standards/WikiData/WD~East_Pakistan,842931]]"
+- "[[/_Standards/WikiData/WD~Dhaka_District,1850485]]"
+- "[[/_Standards/WikiData/WD~East_Bengal,2347909]]"
 - '[[/_Standards/WikiData/WD~Bangladesh,902]]'
 described_by_source:
-- "[[/_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[/_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[/_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[/_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Dhaka,14601004]]'
-economy_of_topic: "[[/_Standards/WikiData/WD~economy of Dhaka,18391889]]"
-head_of_government: "[[/_Standards/WikiData/WD~Atiqul Islam,61917170]]"
+economy_of_topic: "[[/_Standards/WikiData/WD~economy_of_Dhaka,18391889]]"
+head_of_government: "[[/_Standards/WikiData/WD~Atiqul_Islam,61917170]]"
 coordinate_location: "Point(90.394444444 23.728888888)"
 official_website:
 - "https://dncc.gov.bd/"
