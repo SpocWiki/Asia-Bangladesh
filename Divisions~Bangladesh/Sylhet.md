@@ -40,11 +40,18 @@ markerFolder: ./Sylhet/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Sylhet|Sylhet]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Sylhet.public|Sylhet.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Sylhet.internal|Sylhet.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Sylhet.protect|Sylhet.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Sylhet.private|Sylhet.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Sylhet.personal|Sylhet.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Sylhet.secret|Sylhet.secret]] 
+
+### #is_/same_as :: [Sylhet](/_Standards/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Sylhet.md) 
+
+### #is_/same_as :: [Sylhet.public](/_public/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Sylhet.public.md) 
+
+### #is_/same_as :: [Sylhet.internal](/_internal/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Sylhet.internal.md) 
+
+### #is_/same_as :: [Sylhet.protect](/_protect/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Sylhet.protect.md) 
+
+### #is_/same_as :: [Sylhet.private](/_private/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Sylhet.private.md) 
+
+### #is_/same_as :: [Sylhet.personal](/_personal/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Sylhet.personal.md) 
+
+### #is_/same_as :: [Sylhet.secret](/_secret/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Sylhet.secret.md)
 

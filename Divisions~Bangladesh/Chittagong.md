@@ -40,11 +40,18 @@ markerFolder: ./Chittagong/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Chittagong|Chittagong]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Chittagong.public|Chittagong.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Chittagong.internal|Chittagong.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Chittagong.protect|Chittagong.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Chittagong.private|Chittagong.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Chittagong.personal|Chittagong.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Chittagong.secret|Chittagong.secret]] 
+
+### #is_/same_as :: [Chittagong](/_Standards/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Chittagong.md) 
+
+### #is_/same_as :: [Chittagong.public](/_public/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Chittagong.public.md) 
+
+### #is_/same_as :: [Chittagong.internal](/_internal/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Chittagong.internal.md) 
+
+### #is_/same_as :: [Chittagong.protect](/_protect/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Chittagong.protect.md) 
+
+### #is_/same_as :: [Chittagong.private](/_private/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Chittagong.private.md) 
+
+### #is_/same_as :: [Chittagong.personal](/_personal/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Chittagong.personal.md) 
+
+### #is_/same_as :: [Chittagong.secret](/_secret/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Chittagong.secret.md)
 

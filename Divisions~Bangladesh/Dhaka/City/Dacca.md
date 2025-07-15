@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bangladesh/City/Dacca|Dacca]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bangladesh/City/Dacca.public|Dacca.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bangladesh/City/Dacca.internal|Dacca.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bangladesh/City/Dacca.protect|Dacca.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bangladesh/City/Dacca.private|Dacca.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bangladesh/City/Dacca.personal|Dacca.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bangladesh/City/Dacca.secret|Dacca.secret]] 
+
+### #is_/same_as :: [Dacca](/_Standards/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.md) 
+
+### #is_/same_as :: [Dacca.public](/_public/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.public.md) 
+
+### #is_/same_as :: [Dacca.internal](/_internal/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.internal.md) 
+
+### #is_/same_as :: [Dacca.protect](/_protect/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.protect.md) 
+
+### #is_/same_as :: [Dacca.private](/_private/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.private.md) 
+
+### #is_/same_as :: [Dacca.personal](/_personal/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.personal.md) 
+
+### #is_/same_as :: [Dacca.secret](/_secret/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.secret.md)
+

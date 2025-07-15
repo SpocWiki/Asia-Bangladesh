@@ -40,11 +40,18 @@ markerFolder: ./Khulna/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna|Khulna]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna.public|Khulna.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna.internal|Khulna.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna.protect|Khulna.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna.private|Khulna.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna.personal|Khulna.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna.secret|Khulna.secret]] 
+
+### #is_/same_as :: [Khulna](/_Standards/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Khulna.md) 
+
+### #is_/same_as :: [Khulna.public](/_public/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Khulna.public.md) 
+
+### #is_/same_as :: [Khulna.internal](/_internal/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Khulna.internal.md) 
+
+### #is_/same_as :: [Khulna.protect](/_protect/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Khulna.protect.md) 
+
+### #is_/same_as :: [Khulna.private](/_private/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Khulna.private.md) 
+
+### #is_/same_as :: [Khulna.personal](/_personal/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Khulna.personal.md) 
+
+### #is_/same_as :: [Khulna.secret](/_secret/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Khulna.secret.md)
 

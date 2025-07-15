@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bangladesh/City/Dhaka|Dhaka]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bangladesh/City/Dhaka.public|Dhaka.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bangladesh/City/Dhaka.internal|Dhaka.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bangladesh/City/Dhaka.protect|Dhaka.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bangladesh/City/Dhaka.private|Dhaka.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bangladesh/City/Dhaka.personal|Dhaka.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bangladesh/City/Dhaka.secret|Dhaka.secret]] 
+
+### #is_/same_as :: [Dhaka](/_Standards/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dhaka.md) 
+
+### #is_/same_as :: [Dhaka.public](/_public/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dhaka.public.md) 
+
+### #is_/same_as :: [Dhaka.internal](/_internal/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dhaka.internal.md) 
+
+### #is_/same_as :: [Dhaka.protect](/_protect/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dhaka.protect.md) 
+
+### #is_/same_as :: [Dhaka.private](/_private/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dhaka.private.md) 
+
+### #is_/same_as :: [Dhaka.personal](/_personal/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dhaka.personal.md) 
+
+### #is_/same_as :: [Dhaka.secret](/_secret/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dhaka.secret.md)
+

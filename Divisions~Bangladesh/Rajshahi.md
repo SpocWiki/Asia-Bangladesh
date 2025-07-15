@@ -40,11 +40,18 @@ markerFolder: ./Rajshahi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Rajshahi|Rajshahi]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Rajshahi.public|Rajshahi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Rajshahi.internal|Rajshahi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Rajshahi.protect|Rajshahi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Rajshahi.private|Rajshahi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Rajshahi.personal|Rajshahi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Rajshahi.secret|Rajshahi.secret]] 
+
+### #is_/same_as :: [Rajshahi](/_Standards/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Rajshahi.md) 
+
+### #is_/same_as :: [Rajshahi.public](/_public/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Rajshahi.public.md) 
+
+### #is_/same_as :: [Rajshahi.internal](/_internal/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Rajshahi.internal.md) 
+
+### #is_/same_as :: [Rajshahi.protect](/_protect/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Rajshahi.protect.md) 
+
+### #is_/same_as :: [Rajshahi.private](/_private/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Rajshahi.private.md) 
+
+### #is_/same_as :: [Rajshahi.personal](/_personal/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Rajshahi.personal.md) 
+
+### #is_/same_as :: [Rajshahi.secret](/_secret/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Rajshahi.secret.md)
 

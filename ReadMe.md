@@ -129,10 +129,4 @@ Capital :: [[Divisions~Bangladesh/Dhaka/City/Dhaka]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Bangladesh|Bangladesh]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~South/Bangladesh.internal|Bangladesh.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~South/Bangladesh.protect|Bangladesh.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~South/Bangladesh.private|Bangladesh.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~South/Bangladesh.personal|Bangladesh.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~South/Bangladesh.secret|Bangladesh.secret]] 
+
