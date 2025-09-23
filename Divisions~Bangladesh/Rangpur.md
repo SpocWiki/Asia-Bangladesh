@@ -40,17 +40,17 @@ markerFolder: ./Rangpur/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rangpur](/_Standards/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Rangpur.md) 
+### #is_/same_as :: [Rangpur](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rangpur.md) 
 
-### #is_/same_as :: [Rangpur.public](/_public/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Rangpur.public.md) 
+### #is_/same_as :: [Rangpur.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rangpur.public.md) 
 
-### #is_/same_as :: [Rangpur.internal](/_internal/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Rangpur.internal.md) 
+### #is_/same_as :: [Rangpur.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rangpur.internal.md) 
 
-### #is_/same_as :: [Rangpur.protect](/_protect/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Rangpur.protect.md) 
+### #is_/same_as :: [Rangpur.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rangpur.protect.md) 
 
-### #is_/same_as :: [Rangpur.private](/_private/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Rangpur.private.md) 
+### #is_/same_as :: [Rangpur.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rangpur.private.md) 
 
-### #is_/same_as :: [Rangpur.personal](/_personal/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Rangpur.personal.md) 
+### #is_/same_as :: [Rangpur.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rangpur.personal.md) 
 
-### #is_/same_as :: [Rangpur.secret](/_secret/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Rangpur.secret.md)
+### #is_/same_as :: [Rangpur.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rangpur.secret.md)
 

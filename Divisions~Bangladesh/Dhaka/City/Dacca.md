@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dacca](/_Standards/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.md) 
+### #is_/same_as :: [Dacca](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.md) 
 
-### #is_/same_as :: [Dacca.public](/_public/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.public.md) 
+### #is_/same_as :: [Dacca.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.public.md) 
 
-### #is_/same_as :: [Dacca.internal](/_internal/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.internal.md) 
+### #is_/same_as :: [Dacca.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.internal.md) 
 
-### #is_/same_as :: [Dacca.protect](/_protect/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.protect.md) 
+### #is_/same_as :: [Dacca.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.protect.md) 
 
-### #is_/same_as :: [Dacca.private](/_private/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.private.md) 
+### #is_/same_as :: [Dacca.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.private.md) 
 
-### #is_/same_as :: [Dacca.personal](/_personal/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.personal.md) 
+### #is_/same_as :: [Dacca.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.personal.md) 
 
-### #is_/same_as :: [Dacca.secret](/_secret/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.secret.md)
+### #is_/same_as :: [Dacca.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.secret.md)
 

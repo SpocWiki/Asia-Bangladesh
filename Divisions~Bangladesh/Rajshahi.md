@@ -40,17 +40,17 @@ markerFolder: ./Rajshahi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rajshahi](/_Standards/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Rajshahi.md) 
+### #is_/same_as :: [Rajshahi](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rajshahi.md) 
 
-### #is_/same_as :: [Rajshahi.public](/_public/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Rajshahi.public.md) 
+### #is_/same_as :: [Rajshahi.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rajshahi.public.md) 
 
-### #is_/same_as :: [Rajshahi.internal](/_internal/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Rajshahi.internal.md) 
+### #is_/same_as :: [Rajshahi.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rajshahi.internal.md) 
 
-### #is_/same_as :: [Rajshahi.protect](/_protect/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Rajshahi.protect.md) 
+### #is_/same_as :: [Rajshahi.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rajshahi.protect.md) 
 
-### #is_/same_as :: [Rajshahi.private](/_private/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Rajshahi.private.md) 
+### #is_/same_as :: [Rajshahi.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rajshahi.private.md) 
 
-### #is_/same_as :: [Rajshahi.personal](/_personal/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Rajshahi.personal.md) 
+### #is_/same_as :: [Rajshahi.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rajshahi.personal.md) 
 
-### #is_/same_as :: [Rajshahi.secret](/_secret/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Rajshahi.secret.md)
+### #is_/same_as :: [Rajshahi.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rajshahi.secret.md)
 

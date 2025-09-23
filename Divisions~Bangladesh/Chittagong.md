@@ -40,17 +40,17 @@ markerFolder: ./Chittagong/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chittagong](/_Standards/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Chittagong.md) 
+### #is_/same_as :: [Chittagong](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Chittagong.md) 
 
-### #is_/same_as :: [Chittagong.public](/_public/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Chittagong.public.md) 
+### #is_/same_as :: [Chittagong.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Chittagong.public.md) 
 
-### #is_/same_as :: [Chittagong.internal](/_internal/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Chittagong.internal.md) 
+### #is_/same_as :: [Chittagong.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Chittagong.internal.md) 
 
-### #is_/same_as :: [Chittagong.protect](/_protect/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Chittagong.protect.md) 
+### #is_/same_as :: [Chittagong.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Chittagong.protect.md) 
 
-### #is_/same_as :: [Chittagong.private](/_private/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Chittagong.private.md) 
+### #is_/same_as :: [Chittagong.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Chittagong.private.md) 
 
-### #is_/same_as :: [Chittagong.personal](/_personal/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Chittagong.personal.md) 
+### #is_/same_as :: [Chittagong.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Chittagong.personal.md) 
 
-### #is_/same_as :: [Chittagong.secret](/_secret/Earth/Continent/Asia/Asia~South/Bangladesh/Divisions~Bangladesh/Chittagong.secret.md)
+### #is_/same_as :: [Chittagong.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Chittagong.secret.md)
 
