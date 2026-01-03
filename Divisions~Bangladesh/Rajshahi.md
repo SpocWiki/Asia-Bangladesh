@@ -40,17 +40,17 @@ markerFolder: ./Rajshahi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rajshahi](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rajshahi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rajshahi|Rajshahi]] 
 
-### #is_/same_as :: [Rajshahi.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rajshahi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rajshahi.public|Rajshahi.public]] 
 
-### #is_/same_as :: [Rajshahi.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rajshahi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rajshahi.internal|Rajshahi.internal]] 
 
-### #is_/same_as :: [Rajshahi.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rajshahi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rajshahi.protect|Rajshahi.protect]] 
 
-### #is_/same_as :: [Rajshahi.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rajshahi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rajshahi.private|Rajshahi.private]] 
 
-### #is_/same_as :: [Rajshahi.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rajshahi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rajshahi.personal|Rajshahi.personal]] 
 
-### #is_/same_as :: [Rajshahi.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rajshahi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rajshahi.secret|Rajshahi.secret]] 
 

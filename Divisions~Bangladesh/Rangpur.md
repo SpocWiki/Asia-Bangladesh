@@ -40,17 +40,17 @@ markerFolder: ./Rangpur/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rangpur](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rangpur.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rangpur|Rangpur]] 
 
-### #is_/same_as :: [Rangpur.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rangpur.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rangpur.public|Rangpur.public]] 
 
-### #is_/same_as :: [Rangpur.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rangpur.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rangpur.internal|Rangpur.internal]] 
 
-### #is_/same_as :: [Rangpur.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rangpur.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rangpur.protect|Rangpur.protect]] 
 
-### #is_/same_as :: [Rangpur.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rangpur.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rangpur.private|Rangpur.private]] 
 
-### #is_/same_as :: [Rangpur.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rangpur.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rangpur.personal|Rangpur.personal]] 
 
-### #is_/same_as :: [Rangpur.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rangpur.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Rangpur.secret|Rangpur.secret]] 
 

@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dacca](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca|Dacca]] 
 
-### #is_/same_as :: [Dacca.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.public|Dacca.public]] 
 
-### #is_/same_as :: [Dacca.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.internal|Dacca.internal]] 
 
-### #is_/same_as :: [Dacca.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.protect|Dacca.protect]] 
 
-### #is_/same_as :: [Dacca.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.private|Dacca.private]] 
 
-### #is_/same_as :: [Dacca.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.personal|Dacca.personal]] 
 
-### #is_/same_as :: [Dacca.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka/City/Dacca.secret|Dacca.secret]] 
 

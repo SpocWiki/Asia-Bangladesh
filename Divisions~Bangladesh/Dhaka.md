@@ -136,17 +136,17 @@ markerFolder: ./Dhaka/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dhaka](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka|Dhaka]] 
 
-### #is_/same_as :: [Dhaka.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka.public|Dhaka.public]] 
 
-### #is_/same_as :: [Dhaka.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka.internal|Dhaka.internal]] 
 
-### #is_/same_as :: [Dhaka.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka.protect|Dhaka.protect]] 
 
-### #is_/same_as :: [Dhaka.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka.private|Dhaka.private]] 
 
-### #is_/same_as :: [Dhaka.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka.personal|Dhaka.personal]] 
 
-### #is_/same_as :: [Dhaka.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/Divisions~Bangladesh/Dhaka.secret|Dhaka.secret]] 
 

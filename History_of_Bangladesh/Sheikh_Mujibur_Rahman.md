@@ -110,3 +110,20 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Sheikh%20Mujibur%20Rah
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sheikh%20Mujibur%20Rahman) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/History_of_Bangladesh/Sheikh_Mujibur_Rahman|Sheikh_Mujibur_Rahman]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/History_of_Bangladesh/Sheikh_Mujibur_Rahman.public|Sheikh_Mujibur_Rahman.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/History_of_Bangladesh/Sheikh_Mujibur_Rahman.internal|Sheikh_Mujibur_Rahman.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/History_of_Bangladesh/Sheikh_Mujibur_Rahman.protect|Sheikh_Mujibur_Rahman.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/History_of_Bangladesh/Sheikh_Mujibur_Rahman.private|Sheikh_Mujibur_Rahman.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/History_of_Bangladesh/Sheikh_Mujibur_Rahman.personal|Sheikh_Mujibur_Rahman.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh/History_of_Bangladesh/Sheikh_Mujibur_Rahman.secret|Sheikh_Mujibur_Rahman.secret]] 
+
