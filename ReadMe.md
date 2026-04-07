@@ -116,7 +116,7 @@ markerFolder: ./
 [Area-Land::130170] 
 Continent :: [[Asia]]  
 [VehicleCode::BD] 
-Capital :: [[Divisions~Bangladesh/Dhaka/City/Dhaka]]  
+Capital :: [[Divisions~Bangladesh/Dhaka/City/Dhaka|Dhaka]]  
 
 ![[Coat_of_arms_of_Bangladesh.svg|350]] 
 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::23.7] 
 [name::Dacca] 
 State ::  
-Country :: [[../../../../Bangladesh]]  
+Country :: [[../../../../Bangladesh|Bangladesh]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

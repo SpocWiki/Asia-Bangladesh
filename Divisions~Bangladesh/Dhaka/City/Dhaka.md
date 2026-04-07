@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::23.7] 
 [name::Dhaka] 
 State ::  
-Country :: [[../../../../Bangladesh]]  
+Country :: [[../../../../Bangladesh|Bangladesh]]  
 [StateId::] 
 [Population::] 
 [Unknown::32] 

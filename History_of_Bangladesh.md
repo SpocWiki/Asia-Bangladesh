@@ -1,11 +1,11 @@
 ---
 aliases:
 has_id_wikidata: Q839809
-part_of: "[[_Standards/WikiData/WD~history_of_Asia,627531]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
+part_of: "[[_Standards/WikiData/WD~history_of_Asia,627531|WD~history_of_Asia,627531]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]"
 coordinate_location: Point(89.35 24.96)
-facet_of: "[[_Standards/WikiData/WD~Bangladesh,902]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
+facet_of: "[[_Standards/WikiData/WD~Bangladesh,902|WD~Bangladesh,902]]"
+continent: "[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]"
 Commons_category: History of Bangladesh
 ---
 
