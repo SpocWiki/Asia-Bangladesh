@@ -131,7 +131,7 @@ markerFolder: ./Dhaka/
 >
 > A gamma+ global city, Dhaka is the centre of political, economic and cultural life in Bangladesh. It is the seat of the Government of Bangladesh, many Bangladeshi companies, and leading Bangladeshi educational, scientific, research, and cultural organizations. Since its establishment as a modern capital city, the population, area and social and economic diversity of Dhaka have grown tremendously. The city is now one of the most densely industrialized regions in the country. The city accounts for 35% of Bangladesh's economy. The Dhaka Stock Exchange has over 750 listed companies. Dhaka hosts over 50 diplomatic missions; as well as the headquarters of BIMSTEC, CIRDAP, and the International Jute Study Group. Dhaka has a renowned culinary heritage. The city's culture is known for its rickshaws, Kacchi Biryani, art festivals, street food, and religious diversity. Dhaka's most prominent architectural landmark is the modernist Jatiyo Sangshad Bhaban; while it has a heritage of 2000 buildings from the Mughal and British periods. The city is associated with two Nobel laureates. Dhaka's annual Bengali New Year parade, its Jamdani sari, and its rickshaw art have been recognized by UNESCO as the intangible cultural heritage of humanity. The city has produced many writers and poets in several languages, especially in Bengali and English.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Dhaka)
+> [Wikipedia](https://en.wikipedia.org/wiki/Dhaka) 
 
 
 ## Confidential Links & Embeds: 
