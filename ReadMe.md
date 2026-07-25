@@ -347,7 +347,7 @@ dv_UNTERM_Chinese_Formal: 孟加拉人民共和国
 dv_UNTERM_French_Formal: la République populaire du Bangladesh
 dv_UNTERM_Russian: Бангладеш
 dv_UNTERM_Russian_Formal: Народная Республика Бангладеш
-dv_Region_Name: "[[../../Asia|Asia]]"
+dv_Region_Name: "[[../../../Asia|Asia]]"
 dv_Intermediate_Region_Name: "[[Bangladesh]]"
 dv_Sub-region_Name: "[[Southern Asia]]"
 dv_Region: 142
@@ -384,12 +384,12 @@ dv_is_:
 dv_has_name_de: Bangladesh
 dv_Area-Total: 147570
 dv_Area-Land: 130170
-dv_has_place_continent: "[[../../Asia|Asia]]"
+dv_has_place_continent: "[[../../../Asia|Asia]]"
 dv_VehicleCode: BD
-dv_Capital: "[[Bangladesh/Divisions~Bangladesh/Dhaka/City/Dhaka|Dhaka]]"
+dv_Capital: "[[Divisions~Bangladesh/Dhaka/City/Dhaka|Dhaka]]"
 dv_Alcohol-l: 0.2
 dv_Language-Id: 468
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 90.36
 dv_has_place_latitude: 23.7
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Bangladesh
@@ -1031,7 +1031,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Bangladesh/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -1051,7 +1051,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Bangladesh_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1080,8 +1080,8 @@ Capital = `=this.dv_Capital`
 
 ![[Coat_of_arms_of_Bangladesh.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Bangladesh.mp3|Anthem-Bangladesh.mp3]]
-![[Bangladesh/Flag_of_Bangladesh.svg|350]]  
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Bangladesh.mp3|Anthem-Bangladesh.mp3]]
+![[Flag_of_Bangladesh.svg|350]]  
 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
